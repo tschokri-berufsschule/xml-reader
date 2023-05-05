@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buchhandlung>
+   <buch>
+       <titel lang="en">Everyday Italian</titel>
+       <autor>Giada De Laurentiis</autor>
+       <jahr>2005</jahr>
+       <preis>30.00</preis> 
+   </buch>
+   <buch>
+       <titel lang="de">Harry Potter</titel>
+       <autor>J K. Rowling</autor>
+       <jahr>2005</jahr>
+       <preis>29.99</preis> 
+   </buch>
+   <buch>
+       <titel lang="en">XQuery Kick Start</titel>
+       <autor>James McGovern</autor>
+       <autor>Per Bothner</autor>
+       <autor>Kurt Cagle</autor>
+       <autor>James Linn</autor>
+       <autor>Vaidyanathan Nagarajan</autor>
+       <jahr>2003</jahr>
+       <preis>49.99</preis> 
+   </buch>
+   <buch>
+       <titel lang="en">Learning XML</titel>
+       <autor>Erik T. Ray</autor>
+       <jahr>2003</jahr>
+       <preis>39.95</preis> 
+   </buch>
+</buchhandlung>
